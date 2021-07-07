@@ -1,0 +1,59 @@
+.navbar-brand {
+  color: #3FC120 !important;
+  font-weight: bold !important;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+}
+
+.intro {
+  margin-top: 2em;
+  margin-left: .5em;
+  font-weight: bolder;
+  font-size: 4em !important;
+}
+
+.intro-para {
+  margin-left: 1em;
+  padding-left: 1em;
+  padding-right: 3em;
+}
+
+.sign {
+  margin-top: 4em;
+  margin-left: .5em;
+  margin-bottom: .9em;
+  font-weight: bolder;
+}
+
+.userEmail {
+  margin-top: 3em;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.userPwd {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.signup-para {
+  margin-left: 10.2em !important;
+  width: 45% !important;
+  font-size: .85em !important;
+  font-weight: 349 !important;
+  text-align: left !important;
+}
+
+.rightsection {
+  text-align: center;
+}
+
+.signupbutton {
+  background-color: #2DBD60;
+  width: 50% !important;
+}
